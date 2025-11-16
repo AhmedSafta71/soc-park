@@ -46,7 +46,7 @@ echo "[✓] Caldera installation completed."
 echo
 echo "===================================================="
 echo "To start Caldera for the first time:"
-echo
+echo "   cd cladera "
 echo "1. Create and activate the virtual environment:"
 echo "     python3 -m venv caldera_venv"
 echo "     source caldera_venv/bin/activate"
